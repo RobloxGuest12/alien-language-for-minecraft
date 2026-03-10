@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "The Most Unreadable language"
+  },
+
+  "language": {
+    "alien_gl": {
+      "name": "●▲●●▼◆▰▮■",
+      "region": "◆▰▮",
+      "bidirectional": false
+    }
+  }
+}
