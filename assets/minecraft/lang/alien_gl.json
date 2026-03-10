@@ -1,0 +1,30 @@
+{
+  "menu.singleplayer": "●▲●",
+  "menu.multiplayer": "▲●▼",
+  "menu.options": "◆▰▮",
+  "menu.quit": "▼▼●",
+
+  "menu.returnToGame": "▲▲●",
+
+  "selectWorld.title": "▮●▲▮",
+  "selectWorld.create": "▲▮▲",
+  "selectWorld.delete": "▼◆▼",
+
+  "options.title": "◆◆◆",
+  "options.language": "▮▮▮",
+
+  "death.attack.generic": "●▼●▼●",
+  "death.attack.fall": "▲▼▲▼",
+
+  "item.minecraft.diamond": "◆▰◆",
+  "item.minecraft.apple": "●●●",
+  "item.minecraft.bread": "▲▲▲",
+
+  "block.minecraft.stone": "▮▮▮",
+  "block.minecraft.dirt": "●▮●",
+  "block.minecraft.grass_block": "▲▮▲",
+
+  "entity.minecraft.villager": "▮▲▮",
+  "entity.minecraft.zombie": "●▼●",
+  "entity.minecraft.creeper": "◆▼◆"
+}
